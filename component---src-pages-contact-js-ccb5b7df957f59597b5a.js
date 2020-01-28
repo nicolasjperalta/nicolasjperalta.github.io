@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"Cuy+":function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),l=t.n(n),c=t("TJpk"),r=t.n(c),i=t("83Zx"),m=t("IpnI"),o=t.n(m);a.default=function(){return l.a.createElement(i.a,null,l.a.createElement("main",null,l.a.createElement(r.a,{title:"Contact | "+o.a.siteTitle}),l.a.createElement("h1",null,"Contact"),l.a.createElement("p",null,"Please feel free to",l.a.createElement("a",{href:"mailto:nicolasjperalta@gmail.com"}," email me"))))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-ccb5b7df957f59597b5a.js.map
